@@ -9,6 +9,7 @@ body {
     background: #99011a;
     max-width: 340px;
     margin: auto;
+    overflow: hidden;
 }
 header {
     display: flex;
